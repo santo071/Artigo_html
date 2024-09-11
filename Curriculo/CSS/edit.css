@@ -1,0 +1,25 @@
+body{
+    background: rgb(228, 227, 220);
+    
+}
+
+h1{color: gray;
+font-size: 50px;
+font-style: normal;
+margin: 0 auto;
+text-align: center;
+
+}
+
+p{color: gray;
+font-size: 20px;
+font-style: normal;}
+
+nav{
+    color: gray;
+    font-size: 20px;
+    font-style: normal;
+    font-style: normal;
+    margin: 0 auto;
+    text-align: center;
+}
